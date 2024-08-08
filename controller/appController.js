@@ -165,7 +165,8 @@ const getBlogs = async (req, res) => {
 		{
 			title: "AI ERA",
 			read: "5 Min",
-			image: "",
+			image:
+				"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0mTncT32flGI66kLAEBnRRqQtH14aQ6hcdQ&s.jpg",
 			content:
 				"Our life in this modern age depends largely on computers. It is almost impossible to think about life without computers. We need computers in everything that we use in our daily lives. So it becomes very important to make computers intelligent so that our lives become easy. Artificial Intelligence is the theory and development of computers, which imitates the human intelligence and senses, such as visual perception, speech recognition, decision-making, and translation between languages. Artificial Intelligence has brought a revolution in the world of technology.",
 		},
